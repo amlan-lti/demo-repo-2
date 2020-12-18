@@ -12,7 +12,7 @@ public class Calc {
 	public void prod(int n1, int n2) {
 		System.out.println("conflict test");
 	}
-	
+  
 	public void newMethodFromBranch(int n1, int n2) {
 		System.out.println("conflict test");
 	}
