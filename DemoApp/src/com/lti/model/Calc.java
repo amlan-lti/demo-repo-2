@@ -12,8 +12,8 @@ public class Calc {
 	public void prod(int n1, int n2) {
 		System.out.println("conflict test");
 	}
-		
-	public void newMethodFromMaster(int n1, int n2) {
+  
+	public void newMethodFromBranch(int n1, int n2) {
 		System.out.println("conflict test");
 	}
 	//change made in github editor
